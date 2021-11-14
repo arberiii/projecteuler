@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-const N = 10000000000
+const N = 1000000000
 
 func main() {
 	primes := getPrimesLessThanN()
